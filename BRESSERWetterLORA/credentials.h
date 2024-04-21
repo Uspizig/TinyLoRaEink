@@ -1,0 +1,5 @@
+#define mySSID "wallyweb"
+#define myPASSWORD "FILLMEIN"
+#define thingspeak_server "api.thingspeak.com"
+#define thingspeak_api_key "FILLMEIN"
+#define TELEGRAM_BOT_TOKEN "FILLMEIN"
